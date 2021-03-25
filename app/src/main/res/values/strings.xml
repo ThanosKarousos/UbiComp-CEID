@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UbiComp</string>
+    <string name="location_service">Location Service</string>
+    <string name="activity_service">Activity Service</string>
+    <string name="user_sex">Φύλο</string>
+    <string name="user_age">Ηλικία</string>
+    <string name="btn_submit">Υποβολή</string>
+    <string name="places_icon">Places Icon</string>
+    <string name="activity_icon">Activity Icon</string>
+    <string name="group">Ομάδα</string>
+    <string name="group_num">3</string>
+    <string name="sex">Φύλο</string>
+
+    <string-array name="sexOption">
+        <item>Άνδρας</item>
+        <item>Γυναίκα</item>
+    </string-array>
+</resources>
